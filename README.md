@@ -1,4 +1,4 @@
-Corner Shop Calculator
+#Corner Shop Calculator
 
 A simple Python application designed to assist small business owners in tracking daily shop sales, managing operational expenses, and calculating total net profit.
 
